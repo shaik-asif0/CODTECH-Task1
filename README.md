@@ -10,9 +10,9 @@
 
 <h2>Simple Calculator Project Overview</h2>
 <b>Objective:</b><br>
-The objective of this project is to create a basic calculator that can perform fundamental arithmetic operations such as addition, subtraction, multiplication, and division. This project demonstrates the use of Python programming for developing a user-friendly and functional calculator.<br>
+The objective of this project is to create a basic calculator that can perform fundamental arithmetic operations such as addition, subtraction, multiplication, and division. This project demonstrates the use of Python programming for developing a user-friendly and functional calculator.<br><br>
 
-<b>Features:</b>
+<b>Features:</b><br>
 <b>User Interface:</b>
 
 The calculator provides a simple text-based user interface.
