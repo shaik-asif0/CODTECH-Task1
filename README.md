@@ -28,7 +28,7 @@ Division: Divides the first number by the second, with a check to prevent divisi
 Handles invalid inputs and prompts the user to enter valid numbers.
 Includes error messages for division by zero and other invalid operations.<br>
 
-<b>Implementation:</b><br>
+<h2>Implementation:</h2>
 The project is implemented using basic Python programming constructs, such as functions, conditional statements, and loops. Below is a brief outline of the code structure:
 <br>
 
