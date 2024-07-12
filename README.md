@@ -98,3 +98,8 @@ Based on the user's choice, it calls the corresponding function to perform the o
 <b>Main Loop:</b><br>
 The program runs in a loop, allowing the user to perform multiple calculations until they choose to exit.<br>
 
+<b>Conclusion:</b><br>
+This simple calculator project is an excellent way to practice and understand basic Python programming concepts. It can be expanded with additional features, such as more complex operations, a graphical user interface (GUI), or enhanced error handling.
+
+
+
