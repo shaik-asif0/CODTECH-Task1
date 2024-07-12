@@ -9,7 +9,7 @@
 <b>Mentor:</b>SRAVANI GOUNI<BR>
 
 <h2>Simple Calculator Project Overview</h2>
-<b>Objective:</b>
+<b>Objective:</b><br>
 The objective of this project is to create a basic calculator that can perform fundamental arithmetic operations such as addition, subtraction, multiplication, and division. This project demonstrates the use of Python programming for developing a user-friendly and functional calculator.<br>
 
 <b>Features:</b>
@@ -17,8 +17,7 @@ The objective of this project is to create a basic calculator that can perform f
 
 The calculator provides a simple text-based user interface.
 Users can input two numbers and choose an operation to perform.<bR>
-<b>Arithmetic Operations:<b>
-
+<b>Arithmetic Operations:</b>
 Addition: Adds two numbers.
 Subtraction: Subtracts the second number from the first.
 Multiplication: Multiplies two numbers.
