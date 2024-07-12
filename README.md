@@ -7,14 +7,13 @@
 <b>Domain:</b>PYTHON PROGRAMMING<BR>
 <b>Duration:</b> JULY TO AUGUST 2024<BR>
 <b>Mentor:</b>SRAVANI GOUNI<BR>
-<h2>Overview of the Project</h2> 
 <pre>
-Simple Calculator Project Overview
-Objective:
+<h2>Simple Calculator Project Overview</h2>
+<b>Objective:</b>
 The objective of this project is to create a basic calculator that can perform fundamental arithmetic operations such as addition, subtraction, multiplication, and division. This project demonstrates the use of Python programming for developing a user-friendly and functional calculator.
 
-Features:
-User Interface:
+<b>Features:</b>
+<b>User Interface:</b>
 
 The calculator provides a simple text-based user interface.
 Users can input two numbers and choose an operation to perform.
