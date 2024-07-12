@@ -11,7 +11,7 @@
 <h2>Simple Calculator Project Overview</h2>
 <b>Sample Code:</b><br>
 <pre>
-  # Define a function for each operation
+# Define a function for each operation
 def add(x, y):
   return x + y
 
@@ -25,15 +25,12 @@ def div(x, y):
   if y == 0:
     return "Error: Division by zero is not allowed"
   return x / y
-
 # Main program
 print("Simple Calculator")
 print("----------------")
-
 # Get the two numbers from the user
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
-
 # Get the operation from the user
 print("Choose an operation:")
 print("1. Addition")
@@ -41,7 +38,6 @@ print("2. Subtraction")
 print("3. Multiplication")
 print("4. Division")
 op = int(input("Enter your choice (1/2/3/4): "))
-
 # Perform the operation
 if op == 1:
   result = add(num1, num2)
@@ -53,7 +49,6 @@ elif op == 4:
   result = div(num1, num2)
 else:
   result = "Error: Invalid operation"
-
 # Display the result
 print("Result:", result)
 </pre><br><br>
