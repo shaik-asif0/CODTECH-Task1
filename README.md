@@ -59,7 +59,8 @@ else:
 print("Result:", result)
 </pre><br>
 # seee
-![Screenshot 2024-07-12 231037](https://github.com/user-attachments/assets/0f847c3a-a019-4780-bf00-cd9d2b6e3d06)
+![image](https://github.com/user-attachments/assets/8265ab10-35bb-4602-8141-8c09549c13e9)
+
 
 <br>
 <h2>Objective:</h2><br>
