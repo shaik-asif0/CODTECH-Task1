@@ -10,37 +10,37 @@
 
 <h2>Simple Calculator Project Overview</h2>
 <b>Objective:</b>
-The objective of this project is to create a basic calculator that can perform fundamental arithmetic operations such as addition, subtraction, multiplication, and division. This project demonstrates the use of Python programming for developing a user-friendly and functional calculator.
+The objective of this project is to create a basic calculator that can perform fundamental arithmetic operations such as addition, subtraction, multiplication, and division. This project demonstrates the use of Python programming for developing a user-friendly and functional calculator.<br>
 
 <b>Features:</b>
 <b>User Interface:</b>
 
 The calculator provides a simple text-based user interface.
-Users can input two numbers and choose an operation to perform.
-Arithmetic Operations:
+Users can input two numbers and choose an operation to perform.<bR>
+<b>Arithmetic Operations:<b>
 
 Addition: Adds two numbers.
 Subtraction: Subtracts the second number from the first.
 Multiplication: Multiplies two numbers.
-Division: Divides the first number by the second, with a check to prevent division by zero.
-Error Handling:
+Division: Divides the first number by the second, with a check to prevent division by zero.<br>
+<b>Error Handling:</b>
 
 Handles invalid inputs and prompts the user to enter valid numbers.
-Includes error messages for division by zero and other invalid operations.
-Implementation:
+Includes error messages for division by zero and other invalid operations.<br>
+<b>Implementation:<b>
 The project is implemented using basic Python programming constructs, such as functions, conditional statements, and loops. Below is a brief outline of the code structure:
-
-Function Definitions:
+<br>
+<b>Function Definitions:<b>
 
 Functions for each arithmetic operation: add(), subtract(), multiply(), and divide().
 A function to display the menu and get the user's choice of operation.
-A main function to drive the program and handle user input and output.
-User Input and Output:
+A main function to drive the program and handle user input and output.<br>
+<b>User Input and Output:</b>
 
 The program prompts the user to enter two numbers.
 It displays a menu of operations and asks the user to choose one.
-Based on the user's choice, it calls the corresponding function to perform the operation and displays the result.
-Main Loop:
+Based on the user's choice, it calls the corresponding function to perform the operation and displays the result.<br>
+<b>Main Loop:<b>
 
-The program runs in a loop, allowing the user to perform multiple calculations until they choose to exit.
+The program runs in a loop, allowing the user to perform multiple calculations until they choose to exit.<br>
 
