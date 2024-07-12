@@ -1,6 +1,6 @@
 <h2>Intern</h2>
-**Name:** SHAIK ASIF<BR>
-**Collage:** NRI Institute of technology<BR>
+<b><i>Name</i></b> SHAIK ASIF<BR>
+<b><i>Collage:** NRI Institute of technology<BR>
 **Roll No:** 22KP1A44A9<BR>
 **Company:** CODTECH IT SOLUTIONS<BR>
 **ID:** CT4PP3591<BR>
