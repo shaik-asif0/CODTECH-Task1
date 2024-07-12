@@ -13,15 +13,15 @@
 The objective of this project is to create a basic calculator that can perform fundamental arithmetic operations such as addition, subtraction, multiplication, and division. This project demonstrates the use of Python programming for developing a user-friendly and functional calculator.<br><br>
 
 <h2>Features:</h2>
-<b>User Interface:</b><br>
+<b>User Interface:</b><br><br>
 The calculator provides a simple text-based user interface.
 Users can input two numbers and choose an operation to perform.<bR>
-<b>Arithmetic Operations:</b><br>
+<b>Arithmetic Operations:</b><br><br>
 Addition: Adds two numbers.
 Subtraction: Subtracts the second number from the first.
 Multiplication: Multiplies two numbers.
 Division: Divides the first number by the second, with a check to prevent division by zero.<br>
-<b>Error Handling:</b>
+<b>Error Handling:</b><br><br>
 
 Handles invalid inputs and prompts the user to enter valid numbers.
 Includes error messages for division by zero and other invalid operations.<br>
