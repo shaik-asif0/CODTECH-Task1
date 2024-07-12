@@ -58,7 +58,7 @@ else:
 #Display the result
 print("Result:", result)
 </pre><br>
-# seee
+# OutPut
 ![image](https://github.com/user-attachments/assets/8265ab10-35bb-4602-8141-8c09549c13e9)
 
 
