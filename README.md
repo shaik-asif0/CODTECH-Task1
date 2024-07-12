@@ -57,7 +57,10 @@ else:
   
 #Display the result
 print("Result:", result)
-</pre><br><br>
+</pre><br>
+<h2>OutPut</h2>
+![image](https://github.com/user-attachments/assets/95068114-83e9-4c4b-99e0-0ec03476deb8)
+
 <b>Objective:</b><br>
 The objective of this project is to create a basic calculator that can perform fundamental arithmetic operations such as addition, subtraction, multiplication, and division. This project demonstrates the use of Python programming for developing a user-friendly and functional calculator.<br>
 
