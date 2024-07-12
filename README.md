@@ -1,5 +1,5 @@
 <h2>Intern</h2>
-<b><i>Name:</i></b> SHAIK ASIF<BR>
+<b><i>Name:</i></b> SHAIK ASIF<br>
 <b><i>Collage:</i></b> NRI Institute of technology<BR>
 <b><i>Roll No:</i></b>22KP1A44A9<BR>
 <b><i>Company:</i></b>CODTECH IT SOLUTIONS<BR>
