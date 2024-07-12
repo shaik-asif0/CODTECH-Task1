@@ -8,3 +8,6 @@
 **Duration:** JULY TO AUGUST 2024<BR>
 **Mentor:** SRAVANI GOUNI<BR>
 <h2>Overview of the Project</h2> 
+**Project:** Create a Simple Calculator<br><br>
+**Objects**<br>
+
