@@ -62,7 +62,7 @@ print("Result:", result)
 ![Screenshot 2024-07-12 231037](https://github.com/user-attachments/assets/0f847c3a-a019-4780-bf00-cd9d2b6e3d06)
 
 <br>
-<b>Objective:</b><br>
+<h2>Objective:</h2><br>
 The objective of this project is to create a basic calculator that can perform fundamental arithmetic operations such as addition, subtraction, multiplication, and division. This project demonstrates the use of Python programming for developing a user-friendly and functional calculator.<br>
 
 <h2>Features:</h2>
@@ -98,7 +98,7 @@ Based on the user's choice, it calls the corresponding function to perform the o
 <b>Main Loop:</b><br>
 The program runs in a loop, allowing the user to perform multiple calculations until they choose to exit.<br>
 
-<b>Conclusion:</b><br>
+<h2>Conclusion:</h2><br>
 This simple calculator project is an excellent way to practice and understand basic Python programming concepts. It can be expanded with additional features, such as more complex operations, a graphical user interface (GUI), or enhanced error handling.
 
 
