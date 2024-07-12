@@ -1,4 +1,4 @@
-<h1>Intern</h1><hr>
+<h1>Intern</h1>
 **Name:** SHAIK ASIF<BR>
 **Collage:** NRI Institute of technology<BR>
 **Roll No:** 22KP1A44A9<BR>
